@@ -1,0 +1,7 @@
+/*
+__pycache__/
+*.pyc
+credentials.json */
+git add .gitignore
+git commit -m "Add .gitignore to exclude credentials.json"
+git push
